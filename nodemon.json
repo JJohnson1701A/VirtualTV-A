@@ -1,0 +1,6 @@
+{
+  "watch": ["*.js", "routes/"],
+  "ignore": ["db/", "db/*.json", "public/", "public/**/*"],
+  "ext": "js,json",
+  "delay": 500
+}
